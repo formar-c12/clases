@@ -1,0 +1,12 @@
+[
+    {
+        "nombre" : "Jonatan",
+        "apellido" : "Céspedes",
+        "comision" : 1
+    },
+    {
+        "nombre" : "Michel",
+        "apellido" : "Varela",
+        "comision" : 4
+    }
+]

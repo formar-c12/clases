@@ -1,0 +1,36 @@
+/* Banner */
+
+.home .banner {
+    display: none;
+}
+
+/* Main */
+
+main.home {
+    margin: 0 auto;
+    width: 90%;
+}
+
+/* Section */
+
+.home .section-title {
+    margin: 25px 0;
+}
+
+.home .card {
+    background-color: white;
+    margin-bottom: 10px;
+}
+
+.home .card .card-content {
+    border-top: 1px solid var(--light-grey);
+    padding: 15px;
+}
+
+/* Media queries*/
+/* desktop */
+@media (min-width: 992px) {
+    .home .banner {
+        display: block;
+    }
+}

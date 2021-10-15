@@ -1,0 +1,112 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Ephesis&family=Roboto&display=swap'); */
+
+* {
+    font-weight: 700;
+}
+
+button {
+    width: 130px;
+    padding: 0 25px;
+    height: 50px;
+}
+
+#button-danger {
+    background-color: tomato;
+}
+
+.button-primary {
+    background-color: teal;
+    border: none;
+    border-radius: 10px;
+    color: white;
+}
+
+a {
+    text-decoration: none;
+    font-size: 25px;
+    color: blue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+}
+
+div {
+    height: 2rem;
+}
+
+ul li a{
+    color: violet;
+    font-style: initial;
+}
+
+h1 {
+    color: khaki;
+    text-align: right;
+}
+
+h2 {
+    color: red !important;
+}
+
+/* font-family: 'Ephesis', cursive;
+
+font-family: 'Roboto', sans-serif; */
+
+.tituloPrincipal {
+    font-family: 'Ephesis', cursive;
+    text-transform: capitalize;
+}
+
+.tituloSecundario{
+    font-family: 'Roboto', sans-serif;
+}
+
+
+ul li a{
+    color: green;
+}
+
+h2 {
+    color: blue;
+}
+
+.caja_color {
+    display: inline-block;
+    width: 20%;
+    height: 200px;
+}
+
+body {
+    background-color: rgb(255, 197, 91);
+    background-image: url('/naruto-sasuke-uhdpaper.com-4K-56.jpg');
+    background-size: 200px;
+    background-repeat: repeat-y;
+    background-position: center;
+}
+
+#caja1 {
+    background-color: green;
+}
+#caja2 {
+    background-color: orchid;
+    background-image: url('/naruto-sasuke-uhdpaper.com-4K-56.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+#caja3 {
+    background: linear-gradient(#e66465, #9198e5);
+}
+#caja4 {
+    background-color: rgba(0, 128, 0, 0.5);
+}
+
+section {
+    height: 300px;
+    background-color: orchid;
+    background-image: url('/fotoauto.jpg');
+    background-attachment: fixed;
+}
+
+
+
+
